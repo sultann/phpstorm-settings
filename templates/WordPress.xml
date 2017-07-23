@@ -1,0 +1,12 @@
+<templateSet group="WordPress">
+  <template name="wp_die" value="echo '&lt;pre&gt;';&#10;wp_die(var_dump());&#10;echo '&lt;/pre&gt;';" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="error_log" value="error_log(,true);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
