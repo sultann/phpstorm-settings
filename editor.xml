@@ -3,6 +3,7 @@
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Monaco" />
     <option name="LINE_SPACING" value="1.4" />
+    <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
