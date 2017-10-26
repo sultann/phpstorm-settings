@@ -1,0 +1,12 @@
+<templateSet group="wpcontentpilot">
+  <template name="__e" value="__( $END$ , 'wpcp')" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="license" value="/**&#10; * Installation related functions and actions.&#10; *&#10; * @author MD Sultan Nasir Uddin &lt;manikdrmc@gmail.com&gt;&#10; * @package WP Content Pilot&#10; */" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>
