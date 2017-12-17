@@ -4,9 +4,8 @@
     <option name="LINE_SPACING" value="1.8" />
     <option name="USE_LIGATURES" value="true" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="SqlEditorOptions">
+    <option name="qualificationType" value="On collisions" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
