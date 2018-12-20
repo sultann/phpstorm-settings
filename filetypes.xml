@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="icon" type="PLAIN_TEXT" />
+      <mapping pattern="ever-hrm-accounts" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="custom-theme/style" type="PLAIN_TEXT" />
-      <mapping pattern="icon" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
